@@ -1,7 +1,7 @@
 docker brunch sass
 ==================
 
-docker build for brunch.io with sass
+docker container build for brunch.io with sass
 
 install with:
 `docker pull  elexy/docker-brunchsass`
